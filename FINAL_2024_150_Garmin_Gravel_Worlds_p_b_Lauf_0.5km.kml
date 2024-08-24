@@ -55,6 +55,60 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>0.5 KM</name>
+      <Point>
+        <coordinates>-96.594913,40.857135,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1 KM</name>
+      <Point>
+        <coordinates>-96.588968,40.857179,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1.5 KM</name>
+      <Point>
+        <coordinates>-96.586580,40.859898,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2 KM</name>
+      <Point>
+        <coordinates>-96.586570,40.864394,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2.5 KM</name>
+      <Point>
+        <coordinates>-96.586570,40.868891,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>3 KM</name>
+      <Point>
+        <coordinates>-96.583387,40.870950,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>3.5 KM</name>
+      <Point>
+        <coordinates>-96.577441,40.870926,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>4 KM</name>
+      <Point>
+        <coordinates>-96.571495,40.870900,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>4.5 KM</name>
+      <Point>
+        <coordinates>-96.565549,40.870870,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>5 KM</name>
       <Point>
         <coordinates>-96.559602,40.870827,0</coordinates>
